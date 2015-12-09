@@ -12,7 +12,7 @@ Given(~/^a reminder for "(.*?)"$/) { String comicName ->
     throw new PendingException()
 }
 
-When(~/^he checks his reminders$/) { ->
+When(~/^he lists his reminders$/) { ->
     // Write code here that turns the phrase above into concrete actions
     throw new PendingException()
 }
