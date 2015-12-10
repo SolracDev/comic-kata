@@ -1,0 +1,2335 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2015 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2015 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2015 MARVEL</a>",
+  "etag": "4ef27edbc7f92584caa1ea441bae1f615c01297f",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 110,
+    "count": 20,
+    "results": [
+      {
+        "id": 56604,
+        "digitalId": 0,
+        "title": "Carnage (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Trapped down in a mineshaft with Carnage, the situation for the FBI’s symbiote squad gets HAIRY when John Jameson loses his cool. You won’t want to miss th—AROOOOOOOOOOOOOOOOO!",
+        "modified": "2015-11-05T09:05:02-0500",
+        "isbn": "",
+        "upc": "75960608349700311",
+        "diamondCode": "OCT150868",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Trapped down in a mineshaft with Carnage, the situation for the FBI’s symbiote squad gets HAIRY when John Jameson loses his cool. You won’t want to miss th—AROOOOOOOOOOOOOOOOO!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56604",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56604/carnage_2015_3?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20720",
+          "name": "Carnage (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-30T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5626a008cfce7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5626a008cfce7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56604/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+              "name": "Mike Del Mundo",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56604/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56604/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124063",
+              "name": "cover from Carnage (2015) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56604/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56710,
+        "digitalId": 0,
+        "title": "Daredevil (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney’s office. Fighting crime in the shadows, prosecuting bad guys in the light, it’s a whole new chapter for our man without fear—including the arrival of the devil’s advocate. Welcome to Hell, Blindspot.",
+        "modified": "2015-11-16T12:56:58-0500",
+        "isbn": "",
+        "upc": "75960608350300211",
+        "diamondCode": "OCT150758",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney’s office. Fighting crime in the shadows, prosecuting bad guys in the light, it’s a whole new chapter for our man without fear—including the arrival of the devil’s advocate. Welcome to Hell, Blindspot."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56710",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56710/daredevil_2015_2?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20780",
+          "name": "Daredevil (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/564a1abbcf9b0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/565f1040987be",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/565f0fde8ce77",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/564a1abbcf9b0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+              "name": "Sana Amanat",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+              "name": "Charles Soule",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124275",
+              "name": "cover from Daredevil (2015) #2",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56165,
+        "digitalId": 0,
+        "title": "Spider-Woman (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "TRAPPED in an alien hospital with a bunch of other moms-to-be, Jessica Drew has suddenly found herself in over her head! It’s anything but business as usual as Jess realizes she’s the only person who can save the day – but only if she can keep herself and her baby safe in the process!",
+        "modified": "2015-11-16T15:11:15-0500",
+        "isbn": "",
+        "upc": "75960608338100211",
+        "diamondCode": "OCT150871",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "TRAPPED in an alien hospital with a bunch of other moms-to-be, Jessica Drew has suddenly found herself in over her head! It’s anything but business as usual as Jess realizes she’s the only person who can save the day – but only if she can keep herself and her baby safe in the process!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56165",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56165/spider-woman_2015_2?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20618",
+          "name": "Spider-Woman (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/564a398ab4edf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/564a398ab4edf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+              "name": "Dennis Hopeless",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+              "name": "Javier Rodriguez",
+              "role": "penciller"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123293",
+              "name": "cover from Spider-Woman (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123294",
+              "name": "story from Spider-Woman (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56068,
+        "digitalId": 0,
+        "title": "Deadpool (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "MORE DEADPOOL THAN YOU WANTED! That’s right—Wade’s called in some help being him. And you won’t believe (or recognize?) who he signed up! (Unless you are intimately familiar with Marvel Encyclopedia.)\n",
+        "modified": "2015-11-16T13:53:08-0500",
+        "isbn": "",
+        "upc": "75960608332900411",
+        "diamondCode": "OCT150823",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "MORE DEADPOOL THAN YOU WANTED! That’s right—Wade’s called in some help being him. And you won’t believe (or recognize?) who he signed up! (Unless you are intimately familiar with Marvel Encyclopedia.)\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56068",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56068/deadpool_2015_4?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20613",
+          "name": "Deadpool (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/564a27c5e7046",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/564a27c5e7046",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56068/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9586",
+              "name": "Tony Moore",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56068/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56068/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123099",
+              "name": "cover from Deadpool (2015) #4",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56068/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55303,
+        "digitalId": 0,
+        "title": "The Amazing Spider-Man (2015) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "Not only has Spider-Man gone global – so have his enemies! Someone in Africa is masquerading as a member of the GOBLIN family! Where there’s goblins, there’s Spidey, and it’s up to everyone’s favorite wall-crawler to get to the bottom of what’s going on!",
+        "modified": "2015-11-16T15:52:34-0500",
+        "isbn": "",
+        "upc": "75960608297100511",
+        "diamondCode": "OCT150859",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Not only has Spider-Man gone global – so have his enemies! Someone in Africa is masquerading as a member of the GOBLIN family! Where there’s goblins, there’s Spidey, and it’s up to everyone’s favorite wall-crawler to get to the bottom of what’s going on!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55303",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55303/the_amazing_spider-man_2015_5?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+          "name": "The Amazing Spider-Man (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/564a4005aa521",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/564a4005aa521",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55303/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+              "name": "Giuseppe Camuncoli",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+              "name": "Dan Slott",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55303/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55303/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121649",
+              "name": "cover from The Amazing Spider-Man (2015) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121650",
+              "name": "story from The Amazing Spider-Man (2015) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55303/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 54741,
+        "digitalId": 0,
+        "title": "Figment 2 (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "CAPRI AND FIGMENT’S JOURNEY TAKES A DARK TURN! Deep within the depths of Doubt, our heroes have nowhere to turn! Capri, Figment, and Spark come face to face with Dreamfinder’s corrupted imagination…but will they survive the experience? Another adventurous installment of the sequel to the fan-favorite Disney Kingdoms miniseries!\n\nElements based on Figment © Disney\n",
+        "modified": "2015-11-16T14:10:33-0500",
+        "isbn": "",
+        "upc": "75960608290200411",
+        "diamondCode": "OCT150955",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "CAPRI AND FIGMENT’S JOURNEY TAKES A DARK TURN! Deep within the depths of Doubt, our heroes have nowhere to turn! Capri, Figment, and Spark come face to face with Dreamfinder’s corrupted imagination…but will they survive the experience? Another adventurous installment of the sequel to the fan-favorite Disney Kingdoms miniseries!\n\nElements based on Figment © Disney\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54741",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/54741/figment_2_2015_4?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20256",
+          "name": "Figment 2 (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/564a2a5d2c2c4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/564a2a5d2c2c4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54741/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+              "name": "Ramon Bachs",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+              "name": "John Tyler Christopher",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12390",
+              "name": "Jim Zub",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54741/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54741/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120703",
+              "name": "cover from Figment 2 (2015) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/120704",
+              "name": "story from Figment 2 (2015) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/54741/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57529,
+        "digitalId": 0,
+        "title": "New Avengers (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Out beyond the nether dark lurks... Moridun, Master Magus of the Fifth Cosmos! He’s not just an evil wizard - he’s an evil Space Wizard! But when the space dust settles, who will be... the King of Space? Seriously, everything’s cooler in space. How cool will the New Avengers be in space? THEY WILL BE PRETTY COOL!",
+        "modified": "2015-11-16T14:33:46-0500",
+        "isbn": "",
+        "upc": "75960608352700411",
+        "diamondCode": "OCT150876",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Out beyond the nether dark lurks... Moridun, Master Magus of the Fifth Cosmos! He’s not just an evil wizard - he’s an evil Space Wizard! But when the space dust settles, who will be... the King of Space? Seriously, everything’s cooler in space. How cool will the New Avengers be in space? THEY WILL BE PRETTY COOL!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57529",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57529/new_avengers_2015_4?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20841",
+          "name": "New Avengers (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/564a2fe4801c0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/564a2fe4801c0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57529/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+              "name": "Al Ewing",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12369",
+              "name": "Gerardo Sandoval",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57529/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57529/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125852",
+              "name": "cover from New Avengers (2015) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/125853",
+              "name": "story from New Avengers (2015) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57529/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56558,
+        "digitalId": 0,
+        "title": "Captain America: Sam Wilson (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Danger on Wall Street...It’s the venomous return of THE SERPENT SQUAD!!!",
+        "modified": "2015-11-16T12:48:51-0500",
+        "isbn": "",
+        "upc": "75960608347300411",
+        "diamondCode": "OCT150904",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Danger on Wall Street...It’s the venomous return of THE SERPENT SQUAD!!!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56558",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56558/captain_america_sam_wilson_2015_4?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20711",
+          "name": "Captain America: Sam Wilson (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/564a177042595",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/564a177042595",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56558/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+              "name": "Paul Renaud",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56558/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56558/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123971",
+              "name": "cover from Captain America: Sam Wilson (2015) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123972",
+              "name": "story from Captain America: Sam Wilson (2015) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56558/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57620,
+        "digitalId": 0,
+        "title": "Secret Wars (2015) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "GENESIS!",
+        "modified": "2015-11-16T15:08:26-0500",
+        "isbn": "",
+        "upc": "75960608230800911",
+        "diamondCode": "OCT150729",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 56,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "GENESIS!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57620",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57620/secret_wars_2015_9?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19648",
+          "name": "Secret Wars (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55df055090ffc",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55df055090ffc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57620/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+              "name": "Jonathan Hickman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+              "name": "Esad Ribic",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57620/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57620/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/126044",
+              "name": "cover from Secret Wars (2015) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/126045",
+              "name": "story from Secret Wars (2015) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57620/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51682,
+        "digitalId": 0,
+        "title": "Darth Vader (2015) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": "Han & Luke take on Vader’s forces...and more? Meanwhile...Leia makes a hard decision. Marvel’s first Star Wars event continues here!",
+        "modified": "2015-11-16T13:47:55-0500",
+        "isbn": "",
+        "upc": "759606081241001411",
+        "diamondCode": "OCT150943",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Han & Luke take on Vader’s forces...and more? Meanwhile...Leia makes a hard decision. Marvel’s first Star Wars event continues here!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51682",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51682/darth_vader_2015_14?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19379",
+          "name": "Darth Vader (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114941",
+              "name": "cover from Darth Vader (2015) #14",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+              "name": "Star Wars"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 56181,
+        "digitalId": 0,
+        "title": "Star-Lord (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "After just a little bit of grand theft extraterrestrial vessel, young Peter Quill finally made it to space! Then he got stuck there. Another ship is approaching: is their intention space roadside assistance, or space highway robbery? Peter’s got to be ready for anything!",
+        "modified": "2015-11-16T15:38:55-0500",
+        "isbn": "",
+        "upc": "75960608339800211",
+        "diamondCode": "OCT150833",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "After just a little bit of grand theft extraterrestrial vessel, young Peter Quill finally made it to space! Then he got stuck there. Another ship is approaching: is their intention space roadside assistance, or space highway robbery? Peter’s got to be ready for anything!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56181",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56181/star-lord_2015_2?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20619",
+          "name": "Star-Lord (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/564a3e2fa20b9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/564a3e2fa20b9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56181/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+              "name": "Javier Garron",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11530",
+              "name": "Sam Humphries",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+              "name": "Dave Johnson",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+              "name": "Jacob Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56181/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56181/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123325",
+              "name": "cover from Star-Lord (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123326",
+              "name": "story from Star-Lord (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56181/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55436,
+        "digitalId": 0,
+        "title": "Extraordinary X-Men (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "The clock is winding down for mutantkind and one of the X-Men’s oldest foes has come to speed up the process: MISTER SINISTER has returned! And he’s bringing the X-Men face-to-face with their greatest fear...As the first chapter of EXTRAORDINARY X-MEN races to its exciting conclusion, one thing’s for sure for this team of all-new, all-different X-Men: Not everyone will emerge unscathed.",
+        "modified": "2015-11-16T14:04:12-0500",
+        "isbn": "",
+        "upc": "75960608302200411",
+        "diamondCode": "OCT150814",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The clock is winding down for mutantkind and one of the X-Men’s oldest foes has come to speed up the process: MISTER SINISTER has returned! And he’s bringing the X-Men face-to-face with their greatest fear...As the first chapter of EXTRAORDINARY X-MEN races to its exciting conclusion, one thing’s for sure for this team of all-new, all-different X-Men: Not everyone will emerge unscathed."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55436",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55436/extraordinary_x-men_2015_4?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+          "name": "Extraordinary X-Men (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/564a28f02ca10",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/564a28f02ca10",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55436/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+              "name": "Daniel Ketchum",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+              "name": "Humberto Ramos",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55436/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55436/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/121915",
+              "name": "cover from Extraordinary X-Men (2015) #4",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55436/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57018,
+        "digitalId": 0,
+        "title": "Moon Girl and Devil Dinosaur (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "B.F.F.!? DEVIL DINOSAUR seems to like MOON GIRL just fine, but a guy’s got to eat! What are New York’s newest tourists, THE KILLER-FOLK, going to do next? And when prehistoric thunder lizards roam Times Square, a whole lot of shakin’s goin’ on!",
+        "modified": "2015-11-16T14:20:34-0500",
+        "isbn": "",
+        "upc": "759606084051000211",
+        "diamondCode": "OCT150917",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "B.F.F.!? DEVIL DINOSAUR seems to like MOON GIRL just fine, but a guy’s got to eat! What are New York’s newest tourists, THE KILLER-FOLK, going to do next? And when prehistoric thunder lizards roam Times Square, a whole lot of shakin’s goin’ on!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57018",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57018/moon_girl_and_devil_dinosaur_2015_2?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20839",
+          "name": "Moon Girl and Devil Dinosaur (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/564a2cf3d2d0c",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/564a2cf3d2d0c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57018/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12765",
+              "name": "Natacha Bustos",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11347",
+              "name": "BRANDON MONTCLARE",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12785",
+              "name": "Amy Reeder",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57018/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57018/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124853",
+              "name": "cover from Moon Girl and Devil Dinosaur (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124854",
+              "name": "story from Moon Girl and Devil Dinosaur (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57018/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56503,
+        "digitalId": 0,
+        "title": "Angela: Queen of Hel (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "To the soundtrack of a totally sick Nordic death metal solo, Angela and Sera embark on the conquest to crown Angela Queen of the Dead...and encounter some who they have sent to the afterlife themselves! Friends and foes return from the abyss as Angela and Sera raise a rebellion among the dead of the Ten Realms. You’re the Mockingjay, Angela!!",
+        "modified": "2015-11-16T12:37:27-0500",
+        "isbn": "",
+        "upc": "75960608404300311",
+        "diamondCode": "OCT150926",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "To the soundtrack of a totally sick Nordic death metal solo, Angela and Sera embark on the conquest to crown Angela Queen of the Dead...and encounter some who they have sent to the afterlife themselves! Friends and foes return from the abyss as Angela and Sera raise a rebellion among the dead of the Ten Realms. You’re the Mockingjay, Angela!!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56503",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56503/angela_queen_of_hel_2015_3?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20696",
+          "name": "Angela: Queen of Hel (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/564a1495e8e0b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/564a1495e8e0b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+              "name": "Marguerite Bennett",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+              "name": "Stephanie Hans",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12319",
+              "name": "Aaron Kim Jacinto",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123861",
+              "name": "cover from Angela: Queen of Hel (2015) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123862",
+              "name": "story from Angela: Queen of Hel (2015) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57057,
+        "digitalId": 0,
+        "title": "Patsy Walker, A.K.A. Hellcat! (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "PATSY WALKER has managed to escape her past, her enemies and Hell itself (literally), but nothing compares to job hunting in New York City! Between trying to make rent and dodging (literal) bullets, Patsy barely has time to deal with her mother’s exploitative romance comics about her childhood resurfacing, much less how they start to interfere with her work and dating life. As she goes from living a double life to a triple, what the Hell is Patsy Walker supposed to do? Raise your (literal) claws for PATSY WALKER, AKA HELLCAT!",
+        "modified": "2015-11-16T14:44:41-0500",
+        "isbn": "",
+        "upc": "75960608407400111",
+        "diamondCode": "OCT150801",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "PATSY WALKER has managed to escape her past, her enemies and Hell itself (literally), but nothing compares to job hunting in New York City! Between trying to make rent and dodging (literal) bullets, Patsy barely has time to deal with her mother’s exploitative romance comics about her childhood resurfacing, much less how they start to interfere with her work and dating life. As she goes from living a double life to a triple, what the Hell is Patsy Walker supposed to do? Raise your (literal) claws for PATSY WALKER, AKA HELLCAT!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57057",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/57057/patsy_walker_aka_hellcat_2015_1?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20845",
+          "name": "Patsy Walker, A.K.A. Hellcat! (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-23T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-08T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/55f1a65d7073f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/564f847909d7d",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/564f83736d4c6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/564f8293044b6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/564f820204893",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/564f8089cd82b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/55f1a65d7073f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12787",
+              "name": "Kate Leth",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12786",
+              "name": "Brittney Williams",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124931",
+              "name": "cover from Patsy Walker (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/124932",
+              "name": "story from Patsy Walker (2015) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56117,
+        "digitalId": 0,
+        "title": "Ms. Marvel (2015) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "KAMALA CAN! On the Avengers and on a roll! All Kamala needs to do next is take down the evil suits destroying her city without ruining her personal life! Too bad all of Jersey City thinks Ms. Marvel is the real enemy! Bad guys and bad hair days. (Also the title of Ms. Marvel’s next album.)",
+        "modified": "2015-11-09T12:46:58-0500",
+        "isbn": "",
+        "upc": "75960608334300211",
+        "diamondCode": "OCT150847",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "KAMALA CAN! On the Avengers and on a roll! All Kamala needs to do next is take down the evil suits destroying her city without ruining her personal life! Too bad all of Jersey City thinks Ms. Marvel is the real enemy! Bad guys and bad hair days. (Also the title of Ms. Marvel’s next album.)"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56117",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56117/ms_marvel_2015_2?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20615",
+          "name": "Ms. Marvel (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5640dc7797cac",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5640dc7797cac",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56117/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+              "name": "Sana Amanat",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8247",
+              "name": "Cliff Chiang",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+              "name": "Takeshi Miyazawa",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+              "name": "G. Willow Wilson",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56117/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56117/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123197",
+              "name": "cover from Ms. Marvel (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123198",
+              "name": "story from Ms. Marvel (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56117/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 52485,
+        "digitalId": 0,
+        "title": "Ultimate End (2015) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "ULTIMATE NO MORE! 2000 â€\" 2015\n",
+        "modified": "2015-11-09T12:52:09-0500",
+        "isbn": "",
+        "upc": "75960608235300511",
+        "diamondCode": "JUL150727",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "ULTIMATE NO MORE! 2000 â€\" 2015\n"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52485",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/52485/ultimate_end_2015_5?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19658",
+          "name": "Ultimate End (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/559d6c882f535",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/559d6c882f535",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52485/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+              "name": "Mark Bagley",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52485/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52485/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116547",
+              "name": "cover from Secret Wars: Ultimate End (2015) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/116548",
+              "name": "story from Secret Wars: Ultimate End (2015) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/52485/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+              "name": "Secret Wars (2015)"
+            }
+          ],
+          "returned": 1
+        }
+      },
+      {
+        "id": 55737,
+        "digitalId": 0,
+        "title": "Squadron Supreme (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "They’re each the sole survivor of a lost Earth and they’ll do anything to protect this one, whether you like it or not. The Squadron Supreme -- comprising Hyperion (Avengers), Nighthawk (Supreme Power), Dr. Spectrum (the Great Society), Blur (DP7) and Power Princess -- are a team that doesn’t ask permission or what the rules are. To them all that matters is the safety of Earth and if you stand in the way...that’s your problem! Tell that to the Squadron’s first target -- Namor, destroyer of Dr. Spectrum’s homeworld, who will have to pay for his crimes...but at what cost to the people of Atlantis.",
+        "modified": "2015-11-09T13:06:15-0500",
+        "isbn": "",
+        "upc": "75960608316900111",
+        "diamondCode": "OCT150783",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "They’re each the sole survivor of a lost Earth and they’ll do anything to protect this one, whether you like it or not. The Squadron Supreme -- comprising Hyperion (Avengers), Nighthawk (Supreme Power), Dr. Spectrum (the Great Society), Blur (DP7) and Power Princess -- are a team that doesn’t ask permission or what the rules are. To them all that matters is the safety of Earth and if you stand in the way...that’s your problem! Tell that to the Squadron’s first target -- Namor, destroyer of Dr. Spectrum’s homeworld, who will have to pay for his crimes...but at what cost to the people of Atlantis."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55737",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/55737/squadron_supreme_2015_1?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20517",
+          "name": "Squadron Supreme (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/558b0e580fba7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/564b5e8903ab4",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/564b5e6506bd1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/564b5e4490c4c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/564b5e213bc37",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/564b5e0237ff6",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/564b5dd109432",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/564b4c634d352",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/564b4bc9b5307",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/564b4ad174cfc",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/558b0e580fba7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55737/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+              "name": "Leonard Kirk",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+              "name": "James Robinson",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55737/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55737/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/122517",
+              "name": "cover from Squadron Supreme (2015) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/122518",
+              "name": "story from Squadron Supreme (2015) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/55737/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 51636,
+        "digitalId": 0,
+        "title": "Dark Tower: The Drawing of the Three - Lady of Shadows (2015) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "ODETTA HOLMES’ CHAPTER IN STEPHEN KING’S DARK FANTASY EPIC CONTINUES!\n• ODETTA HOLMES and DETTA WALKER are finding it difficult keeping their worlds separate from one another.\n• Witness the pivotal moment that changes their lives forever - Odetta makes fateful trip to the subway and THE PUSHER tries to finish what he started...\n• With a guest appearance from ROLAND DESCHAIN!",
+        "modified": "2015-11-09T11:38:53-0500",
+        "isbn": "",
+        "upc": "75960608130100411",
+        "diamondCode": "OCT150960",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "ODETTA HOLMES’ CHAPTER IN STEPHEN KING’S DARK FANTASY EPIC CONTINUES!\n• ODETTA HOLMES and DETTA WALKER are finding it difficult keeping their worlds separate from one another.\n• Witness the pivotal moment that changes their lives forever - Odetta makes fateful trip to the subway and THE PUSHER tries to finish what he started...\n• With a guest appearance from ROLAND DESCHAIN!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51636",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/51636/dark_tower_the_drawing_of_the_three_-_lady_of_shadows_2015_4?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19371",
+          "name": "Dark Tower: The Drawing of the Three - Lady of Shadows (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5640cd9d4b253",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5640cd9d4b253",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51636/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+              "name": "Peter David",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10365",
+              "name": "Robin Furth",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12262",
+              "name": "Nimit Malavia",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12398",
+              "name": "Jonathan Marks",
+              "role": "penciller"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51636/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51636/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114849",
+              "name": "cover from Dark Tower: The Drawing of the Three - Lady of Shadows (2020) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/114850",
+              "name": "story from Dark Tower: The Drawing of the Three - Lady of Shadows (2020) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/51636/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56198,
+        "digitalId": 0,
+        "title": "The Unbeatable Squirrel Girl (2015) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Squirrel Girl has woken up, only to find she’s been hurled back in time to the 1960s! Mondays, am I right? And if that wasn’t trouble enough, her friend Nancy is coming face to face with the villainous [CENSORED]! Yes, I’ve noticed that when I type [CENSORED]’s name it shows up as [CENSORED]; no, I don’t know how to fix that. This book features the following: Squirrel Girl, time travel, [CENSORED], and emotions! It promises to satisfy fans of each of those things, even if they don’t like the other things! Which is great because emotions are just THE WORST",
+        "modified": "2015-11-09T13:27:35-0500",
+        "isbn": "",
+        "upc": "75960608340400311",
+        "diamondCode": "OCT150898",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Squirrel Girl has woken up, only to find she’s been hurled back in time to the 1960s! Mondays, am I right? And if that wasn’t trouble enough, her friend Nancy is coming face to face with the villainous [CENSORED]! Yes, I’ve noticed that when I type [CENSORED]’s name it shows up as [CENSORED]; no, I don’t know how to fix that. This book features the following: Squirrel Girl, time travel, [CENSORED], and emotions! It promises to satisfy fans of each of those things, even if they don’t like the other things! Which is great because emotions are just THE WORST"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56198",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/56198/the_unbeatable_squirrel_girl_2015_3?utm_campaign=apiRef&utm_source=97f295907072a970c5df30d73d1f3816"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20620",
+          "name": "The Unbeatable Squirrel Girl (2015 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2015-12-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2015-12-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5640e5eb23e60",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5640e5eb23e60",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56198/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56198/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56198/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/123359",
+              "name": "cover from The Unbeatable Squirrel Girl (2015) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/56198/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
