@@ -3,10 +3,10 @@ Feature: Comic Reminder
   A client should be able check the upcoming releases of his favourite comics for the current month
 
   Scenario: Add Reminder
-    Given a client creates a reminder for "Spider-Man"
+    Given a user who creates a reminder for "Spider-Man"
     And a reminder for "Daredevil"
-    When he lists his reminders
-    Then he would see
+    When the user lists his reminders
+    Then the user would see
     """
     List Of Reminders
     Spider-man
@@ -14,17 +14,17 @@ Feature: Comic Reminder
     """
 
   Scenario: Check Upcoming releases without setting reminders
-    Given a marvel API witch returns the list of comics for the next month
-    When he checks the upcoming releases of his favourite comics
-    Then he would see an exception
+    Given that no reminder has been added
+    When the user checks the upcoming releases of his favourite comics
+    Then the user would see an exception
 
 
   Scenario: Check Upcoming releases
     Given a marvel API witch returns the list of comics for the next month
     And a reminder for "Spider-Man"
     And a reminder for "Daredevil"
-    When he checks the upcoming releases of his favourite comics
-    Then he would see
+    When the user checks the upcoming releases of his favourite comics
+    Then the user would see
     """
     Name                              | On Sale Date  | Print Price
 
@@ -36,8 +36,8 @@ Feature: Comic Reminder
 
 
   Scenario: Check Upcoming releases with a slow API
-    Given a marvel API witch returns the list of comics for the next month but is slow
+    Given a slow marvel API
     And a reminder for "Spider-Man"
     And a reminder for "Daredevil"
-    When he checks the upcoming releases of his favourite comics
-    Then he would see an error in less than 4 seconds
+    When the user checks the upcoming releases of his favourite comics
+    Then the user would see an error whether the response time is high than 4 seconds

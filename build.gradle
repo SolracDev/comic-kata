@@ -17,7 +17,7 @@ task cucumber() {
         javaexec {
             main = "cucumber.api.cli.Main"
             classpath = configurations.cucumberRuntime
-            args = ['--plugin', 'pretty', '--glue', 'src/test/acceptance', 'src/test/resources']
+            args = ['--plugin', 'pretty', '--glue', 'src/test/acceptance', 'src/test/acceptance']
 
         }
     }
