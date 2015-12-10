@@ -22,5 +22,6 @@ Once they have created their reminders, they will be able to check which of thos
 * TDD
 * Pair Programming
 * 1h time?
+* You can´t change the signature of the ComicReminder´s methods
 * After the time is over we will discuss the different approaches took.
 * We should have fun

@@ -1,20 +1,19 @@
 import cucumber.api.PendingException
+import org.solracdev.kata.comickata.ComicReminder
 
 import static cucumber.api.groovy.EN.*
 
 Given(~/^a user who creates a reminder for "(.*?)"$/) { String comicName ->
-    // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+    comicReminder = new ComicReminder()
+    comicReminder.addReminder(comicName)
 }
 
 Given(~/^a reminder for "(.*?)"$/) { String comicName ->
-    // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+    comicReminder.addReminder(comicName)
 }
 
 When(~/^the user lists his reminders$/) { ->
-    // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+    comicReminder.listReminders()
 }
 
 Given(~/^that no reminder has been added$/) { ->

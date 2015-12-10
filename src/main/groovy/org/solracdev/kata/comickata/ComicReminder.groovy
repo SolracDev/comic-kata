@@ -1,9 +1,14 @@
 package org.solracdev.kata.comickata
 
+import org.solracdev.kata.comickata.domain.Reminder
+import org.solracdev.kata.comickata.repository.ReminderRepository
+
 class ComicReminder {
 
-    void addReminder(String comicName) {
+    private ReminderRepository reminderRepository
 
+    void addReminder(String comicName) {
+        reminderRepository.addReminder(new Reminder(comicName: comicName))
     }
 
     void listReminders(){
