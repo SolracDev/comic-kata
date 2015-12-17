@@ -8,10 +8,11 @@ Feature: Comic Reminder
     When the user lists his reminders
     Then the user would see
     """
-    List Of Reminders
-    Spider-man
-    Daredevil
-    """
+List Of Reminders
+Spider-Man
+Daredevil
+
+"""
 
   Scenario: Check Upcoming releases without setting reminders
     Given that no reminder has been added

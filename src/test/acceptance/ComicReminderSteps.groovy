@@ -1,20 +1,42 @@
 import cucumber.api.PendingException
+import org.solracdev.kata.comickata.ComicReminder
+import org.solracdev.kata.comickata.ConsoleWriter
+import org.solracdev.kata.comickata.InMemoryReminderRepository
+import org.solracdev.kata.comickata.ReminderRepository
+import org.solracdev.kata.comickata.Writer
 
 import static cucumber.api.groovy.EN.*
 
+
+ByteArrayOutputStream baos = new ByteArrayOutputStream()
+
+
 Given(~/^a user who creates a reminder for "(.*?)"$/) { String comicName ->
     // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+
+    ReminderRepository reminderRepository = new InMemoryReminderRepository()
+
+
+    PrintStream ps = new PrintStream(baos)
+
+    Writer writer = new ConsoleWriter(ps)
+
+    reminder = new ComicReminder(reminderRepository, writer)
+
+    reminder.addReminder(comicName)
+
 }
 
 Given(~/^a reminder for "(.*?)"$/) { String comicName ->
     // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+
+    reminder.addReminder(comicName)
 }
 
 When(~/^the user lists his reminders$/) { ->
     // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+
+    reminder.listReminders()
 }
 
 Given(~/^that no reminder has been added$/) { ->
@@ -36,7 +58,11 @@ Then(~/^the user would see an exception$/) { ->
 
 Then(~/^the user would see$/) { String printedStatement ->
     // Write code here that turns the phrase above into concrete actions
-    throw new PendingException()
+
+    println "[${baos.toString()}]"
+    println "[${printedStatement}]"
+
+    assert baos.toString() ==  printedStatement
 }
 
 Given(~/^a marvel API witch returns the list of comics for the next month$/) { ->
